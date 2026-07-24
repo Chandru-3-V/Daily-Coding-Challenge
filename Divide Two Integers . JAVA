@@ -1,0 +1,17 @@
+class Solution {
+    public int divide(int dividend, int divisor) {
+        if (dividend == Integer.MIN_VALUE && divisor == -1) return Integer.MAX_VALUE;
+        
+        boolean negative = (dividend < 0) ^ (divisor < 0);
+        long a = Math.abs((long) dividend), b = Math.abs((long) divisor);
+        int res = 0;
+        
+        while (a >= b) {
+            long t = b; int c = 1;
+            while (a >= (t << 1)) { t <<= 1; c <<= 1; }
+            a -= t; res += c;
+        }
+        
+        return negative ? -res : res;
+    }
+}
