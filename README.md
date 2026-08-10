@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -15,4 +16,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
