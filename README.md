@@ -41,6 +41,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [0867-transpose-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 ## Design
@@ -54,6 +55,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Bit Manipulation
@@ -90,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
