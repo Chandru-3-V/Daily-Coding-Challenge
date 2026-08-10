@@ -44,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 <!---LeetCode Topics End-->
