@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0290-word-pattern](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0290-word-pattern/) | Easy |
+| [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | [0566-reshape-the-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0867-transpose-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
+| [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +69,20 @@
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
