@@ -31,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0228-summary-ranges](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0228-summary-ranges/) | Easy |
 <!---LeetCode Topics End-->
