@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0228-summary-ranges](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0228-summary-ranges/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +54,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 <!---LeetCode Topics End-->
