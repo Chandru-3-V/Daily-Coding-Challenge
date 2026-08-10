@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
