@@ -35,4 +35,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0228-summary-ranges](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0228-summary-ranges/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
