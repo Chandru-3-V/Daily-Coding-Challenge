@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0344-reverse-string/) | Easy |
+| [0504-base-7](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -55,6 +56,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0504-base-7](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
