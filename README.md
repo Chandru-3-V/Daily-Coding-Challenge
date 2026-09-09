@@ -57,6 +57,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 | [0504-base-7](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -105,4 +106,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
