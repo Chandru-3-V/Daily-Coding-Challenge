@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0228-summary-ranges](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0228-summary-ranges/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -112,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
