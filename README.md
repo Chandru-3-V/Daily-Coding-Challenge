@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [0342-power-of-four](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
