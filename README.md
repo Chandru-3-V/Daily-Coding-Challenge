@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
+| [0089-gray-code](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [0504-base-7](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -65,6 +66,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -114,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
