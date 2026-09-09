@@ -62,6 +62,7 @@
 | [0062-unique-paths](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [0292-nim-game](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0292-nim-game/) | Easy |
+| [0342-power-of-four](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0504-base-7](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -70,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
+| [0342-power-of-four](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0342-power-of-four](https://github.com/Chandru-3-V/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
